@@ -1,0 +1,14 @@
+kaggle.json
+Pipfile
+Pipfile.lock
+settings.json
+CovidDataAnalysis/.idea/.gitignore
+CovidDataAnalysis/.idea/misc.xml
+CovidDataAnalysis/.idea/modules.xml
+CovidDataAnalysis/.idea/inspectionProfiles/profiles_settings.xml
+FootballDataAnalysis/.idea/.gitignore
+FootballDataAnalysis/.idea/misc.xml
+FootballDataAnalysis/.idea/modules.xml
+FootballDataAnalysis/.idea/inspectionProfiles/profiles_settings.xml
+FootballDataAnalysis/.idea/inspectionProfiles/Project_Default.xml
+FootballDataAnalysis/.idea/FootballDataAnalysis.iml
